@@ -28,6 +28,10 @@ step 7: In the employee dashboard you will see tickets assigned to employees by 
 step 8: By clicking on the box in the ticket table it will pop-up the form on the you will see the ticket detail. after reviewing you can select either resolved or rejected or pending
 ![Screenshot 2024-03-04 191226](https://github.com/Madanraj0519/ZenDesk/assets/125730836/cbc80a55-f4b2-4de6-a32d-74dcfd348f12)
 
+Backend Render successful deployment:
+![Screenshot 2024-03-27 142331](https://github.com/SaranSJ10/Zendesk-clone-backend/assets/143016448/ac73e670-f1df-482c-b20b-dab5ecd7470d)
+
+
 These are the working step of my zen-desk clone project
 
 
