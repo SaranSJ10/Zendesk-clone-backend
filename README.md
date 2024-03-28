@@ -37,7 +37,7 @@ step 7: In the employee dashboard you will see tickets assigned to employees by 
 ![Screenshot 2024-03-04 190945](https://github.com/Madanraj0519/ZenDesk/assets/125730836/595f603b-e30d-41b3-8caa-24d65d89d88c)
 
 step 8: By clicking on the box in the ticket table it will pop-up the form on the you will see the ticket detail. after reviewing you can select either resolved or rejected or pending
-![Screenshot 2024-03-04 191226](https://github.com/Madanraj0519/ZenDesk/assets/125730836/cbc80a55-f4b2-4de6-a32d-74dcfd348f12)
+![Screenshot 2024-03-04 191226]
 
 These are the working step of my zen-desk clone project
 
@@ -56,10 +56,10 @@ step 5: sign out from the admin page
 step 6: sign in to the employee ID that was created by you  on the employee list page
 
 step 7: In the employee dashboard you will see tickets assigned to employees by the admin
-![Screenshot 2024-03-04 190945](https://github.com/Madanraj0519/ZenDesk/assets/125730836/595f603b-e30d-41b3-8caa-24d65d89d88c)
+![Screenshot 2024-03-04 190945]
 
 step 8: By clicking on the box in the ticket table it will pop-up the form on the you will see the ticket detail. after reviewing you can select either resolved or rejected or pending
-![Screenshot 2024-03-04 191226](https://github.com/Madanraj0519/ZenDesk/assets/125730836/cbc80a55-f4b2-4de6-a32d-74dcfd348f12)
+![Screenshot 2024-03-04 191226]
 
 These are the working step of my zen-desk clone project
 
