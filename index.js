@@ -22,7 +22,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(cors());
 
-mongoose.connect("mongodb://localhost:27017")
+mongoose.connect("mongodb+srv://saran:saran2000@cluster0.azlvqmt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 .then(() => {
     console.log('Database connection established successfully');
 })
